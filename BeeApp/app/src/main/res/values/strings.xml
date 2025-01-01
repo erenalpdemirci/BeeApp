@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BeeApp</string>
+    <string name="bee_detail">Arı Detayı</string>
+    <string name="invalid_bee_id">Geçersiz arı ID\'si</string>
+    <string name="bee_not_found">Arı bilgileri bulunamadı</string>
+    <string name="no_internet_connection">İnternet bağlantısı yok!</string>
+</resources>
